@@ -1,0 +1,13 @@
+/.idea/
+/forum-admin/target/
+/forum-chat/target/
+/forum-common/target/
+/forum-admin/forum-admin.iml
+/forum-chat/forum-chat.iml
+/forum-common/forum-common.iml
+/forum-parent/forum-parent.iml
+/forum-portal/target/
+/forum-portal/forum-portal.iml
+/forum-rest/target/
+/forum-rest/forum-rest.iml
+/log.log
